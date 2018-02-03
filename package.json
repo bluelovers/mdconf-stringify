@@ -1,0 +1,31 @@
+{
+  "name": "mdconf-stringify",
+  "version": "1.0.0",
+  "description": "stringify data to markdown/mdconf style",
+  "main": "index.js",
+  "keywords": [
+    "config",
+    "info",
+    "json",
+    "md",
+    "mdconf",
+    "mdconfig",
+    "json",
+    "parse",
+    "markdown",
+    "stringify",
+    "node-novel",
+    "novel",
+    "txt"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crlf-normalize": "^1.0.0",
+    "is-plain-object": "^2.0.4",
+    "moment": "^2.20.1"
+  }
+}
