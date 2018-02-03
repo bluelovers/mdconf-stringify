@@ -2,30 +2,39 @@
   "name": "mdconf-stringify",
   "version": "1.0.0",
   "description": "stringify data to markdown/mdconf style",
-  "main": "index.js",
   "keywords": [
     "config",
     "info",
     "json",
+    "json",
+    "markdown",
     "md",
     "mdconf",
     "mdconfig",
-    "json",
-    "parse",
-    "markdown",
-    "stringify",
     "node-novel",
     "novel",
+    "parse",
+    "stringify",
     "txt"
   ],
+  "homepage": "https://github.com/bluelovers/mdconf-stringify#readme",
+  "bugs": {
+    "url": "https://github.com/bluelovers/mdconf-stringify/issues"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/mdconf-stringify.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "crlf-normalize": "^1.0.0",
     "is-plain-object": "^2.0.4",
     "moment": "^2.20.1"
-  }
+  },
+  "devDependencies": {}
 }
